@@ -125,6 +125,78 @@ a more detailed explanation of how the apparent absorbance is developed to provi
       <td>42.53</td><td>66.81</td><td>55.93</td><td>66.8</td><td>56.1</td>
       <td>66.35</td><td>82.03</td><td>77.80</td><td>82.0</td><td>76.0</td>
     </tr>
+    <tr>
+  <td><b>T1,2,3</b></td>
+  <td>98.22</td><td>99.25</td><td>99.10</td>
+  <td>73.14</td><td>85.27</td><td>82.30</td><td>85.3</td><td>84.6</td>
+  <td>69.26</td><td>85.83</td><td>78.60</td><td>85.8</td><td>79.2</td>
+  <td>56.94</td><td>75.46</td><td>68.20</td><td>75.5</td><td>66.3</td>
+  <td>58.82</td><td>75.29</td><td>70.28</td><td>75.3</td><td>69.5</td>
+  <td>48.48</td><td>64.28</td><td>60.82</td><td>64.3</td><td>62.0</td>
+  <td>39.87</td><td>59.07</td><td>51.70</td><td>59.1</td><td>56.4</td>
+  <td>57.46</td><td>75.23</td><td>69.42</td><td>75.2</td><td>67.9</td>
+</tr>
+
+<tr>
+  <td><b>T2,3,4</b></td>
+  <td>97.98</td><td>99.10</td><td>98.98</td>
+  <td>81.23</td><td>88.95</td><td>89.13</td><td>88.9</td><td>90.7</td>
+  <td>77.22</td><td>89.16</td><td>86.09</td><td>89.2</td><td>86.4</td>
+  <td>66.29</td><td>80.05</td><td>77.33</td><td>80.1</td><td>76.7</td>
+  <td>67.64</td><td>80.86</td><td>78.43</td><td>80.9</td><td>77.7</td>
+  <td>53.28</td><td>70.57</td><td>70.01</td><td>70.6</td><td>65.4</td>
+  <td>44.56</td><td>66.90</td><td>57.09</td><td>66.9</td><td>59.1</td>
+  <td>64.37</td><td>79.90</td><td>76.48</td><td>79.9</td><td>75.3</td>
+</tr>
+
+<tr>
+  <td><b>T3,4,5</b></td>
+  <td>97.43</td><td>98.71</td><td>98.69</td>
+  <td>81.50</td><td>88.91</td><td>89.43</td><td>88.9</td><td>90.8</td>
+  <td>75.67</td><td>88.36</td><td>85.16</td><td>-</td><td>-</td>
+  <td>65.03</td><td>79.15</td><td>76.49</td><td>-</td><td>-</td>
+  <td>68.39</td><td>80.58</td><td>79.39</td><td>-</td><td>-</td>
+  <td>49.70</td><td>68.77</td><td>63.32</td><td>-</td><td>-</td>
+  <td>43.44</td><td>66.21</td><td>56.73</td><td>-</td><td>-</td>
+  <td>63.50</td><td>79.42</td><td>76.04</td><td>-</td><td>-</td>
+</tr>
+
+<tr>
+  <td><b>T4,5,6</b></td>
+  <td>95.18</td><td>97.38</td><td>97.52</td>
+  <td>76.32</td><td>86.05</td><td>85.04</td><td>86.1</td><td>88.0</td>
+  <td>71.08</td><td>85.76</td><td>80.66</td><td>85.8</td><td>82.6</td>
+  <td>61.28</td><td>75.82</td><td>72.36</td><td>75.8</td><td>72.8</td>
+  <td>64.84</td><td>78.83</td><td>76.42</td><td>78.8</td><td>76.5</td>
+  <td>46.40</td><td>65.99</td><td>59.73</td><td>66.0</td><td>59.4</td>
+  <td>36.94</td><td>59.73</td><td>49.69</td><td>59.7</td><td>51.0</td>
+  <td>59.04</td><td>76.17</td><td>71.59</td><td>-</td><td>-</td>
+</tr>
+
+<tr>
+  <td><b>T1,3,5</b></td>
+  <td>97.57</td><td>98.89</td><td>98.77</td>
+  <td>79.13</td><td>87.73</td><td>87.73</td><td>87.7</td><td>89.2</td>
+  <td>75.29</td><td>88.15</td><td>84.59</td><td>88.1</td><td>84.9</td>
+  <td>63.75</td><td>78.07</td><td>74.76</td><td>78.1</td><td>74.0</td>
+  <td>66.79</td><td>79.99</td><td>77.52</td><td>80.0</td><td>76.6</td>
+  <td>52.84</td><td>69.73</td><td>65.88</td><td>69.7</td><td>65.1</td>
+  <td>46.00</td><td>66.59</td><td>59.28</td><td>69.7</td><td>65.1</td>
+  <td>63.90</td><td>79.03</td><td>75.90</td><td>79.0</td><td>74.5</td>
+</tr>
+
+<tr>
+  <td><b>T2,4,6</b></td>
+  <td>94.61</td><td>97.68</td><td>97.19</td>
+  <td>79.02</td><td>87.49</td><td>87.49</td><td>88.0</td><td>89.1</td>
+  <td>73.04</td><td>86.99</td><td>82.68</td><td>87.0</td><td>83.9</td>
+  <td>60.68</td><td>76.51</td><td>71.99</td><td>76.5</td><td>72.7</td>
+  <td>63.62</td><td>78.49</td><td>74.76</td><td>78.5</td><td>74.0</td>
+  <td>47.38</td><td>68.51</td><td>61.15</td><td>68.5</td><td>59.8</td>
+  <td>39.00</td><td>62.67</td><td>53.03</td><td>62.7</td><td>51.3</td>
+  <td>59.93</td><td>77.73</td><td>72.80</td><td>77.7</td><td>71.0</td>
+</tr>
+
   </tbody>
 </table>
 
