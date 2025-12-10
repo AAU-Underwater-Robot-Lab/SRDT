@@ -210,8 +210,6 @@ a more detailed explanation of how the apparent absorbance is developed to provi
         <td>74.90</td><td>88.77</td><td>84.29</td><td>88.8</td><td>83.9</td>
         <td>64.21</td><td>79.84</td><td>75.85</td><td>79.8</td><td>74.9</td>
       </tr>
-
-      <!-- Filas de turbideces combinadas: Synthetic correcto, real = "-" para que copies tus valores -->
       <tr>
         <td><b>T1,2,3</b></td>
         <td>98.22</td><td>99.25</td><td>99.10</td>
@@ -257,7 +255,6 @@ a more detailed explanation of how the apparent absorbance is developed to provi
     </tbody>
   </table>
 
-  <!-- ======================= TABLA 2: T4, T5, T6, T1-6 ======================= -->
   <h3>Part 2 – T4, T5, T6 and T1–6 (real)</h3>
   <table>
     <thead>
@@ -269,13 +266,13 @@ a more detailed explanation of how the apparent absorbance is developed to provi
         <th colspan="5">T1–6 (real)</th>
       </tr>
       <tr>
-        <!-- T4 -->
+        <-- T4 -->
         <th>mIoU</th><th>mAcc</th><th>mDice</th><th>mRec</th><th>mPrec</th>
-        <!-- T5 -->
+        <-- T5 -->
         <th>mIoU</th><th>mAcc</th><th>mDice</th><th>mRec</th><th>mPrec</th>
-        <!-- T6 -->
+        <-- T6 -->
         <th>mIoU</th><th>mAcc</th><th>mDice</th><th>mRec</th><th>mPrec</th>
-        <!-- T1–6 -->
+        <-- T1–6 -->
         <th>mIoU</th><th>mAcc</th><th>mDice</th><th>mRec</th><th>mPrec</th>
       </tr>
     </thead>
@@ -329,8 +326,6 @@ a more detailed explanation of how the apparent absorbance is developed to provi
         <td>42.53</td><td>66.81</td><td>55.93</td><td>66.8</td><td>56.1</td>
         <td>66.35</td><td>82.03</td><td>77.80</td><td>82.0</td><td>76.0</td>
       </tr>
-
-      <!-- Filas combinadas: rellena tú los valores reales si quieres -->
       <tr>
         <td><b>T1,2,3</b></td>
         <td>–</td><td>–</td><td>–</td><td>–</td><td>–</td>
