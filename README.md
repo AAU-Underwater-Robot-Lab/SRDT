@@ -203,3 +203,55 @@ Results for Mask2Former (Swin-S) at 25K iterations, when the model has been trai
   </tbody>
 </table>
 
+
+<h2> Turbidity Measurements </h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Turbidity Level</th>
+      <th>Mean FTU</th>
+      <th>Standard Deviation</th>
+      <th>Absorbance (640 THz)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>T1</b></td>
+      <td>0.028</td>
+      <td>0.011</td>
+      <td>0.00907</td>
+    </tr>
+    <tr>
+      <td><b>T2</b></td>
+      <td>0.710</td>
+      <td>0.013</td>
+      <td>0.00921</td>
+    </tr>
+    <tr>
+      <td><b>T3</b></td>
+      <td>1.210</td>
+      <td>0.081</td>
+      <td>0.00926</td>
+    </tr>
+    <tr>
+      <td><b>T4</b></td>
+      <td>1.589</td>
+      <td>0.118</td>
+      <td>0.00946</td>
+    </tr>
+    <tr>
+      <td><b>T5</b></td>
+      <td>2.084</td>
+      <td>0.119</td>
+      <td>0.00974</td>
+    </tr>
+    <tr>
+      <td><b>T6</b></td>
+      <td>2.541</td>
+      <td>0.149</td>
+      <td>0.00950</td>
+    </tr>
+  </tbody>
+</table>
+
