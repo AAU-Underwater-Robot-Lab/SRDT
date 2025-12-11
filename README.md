@@ -12,8 +12,11 @@ Table with the objects (pool aswell) employed as well as their dimension and mat
 Kaolin link and sensors
 a more detailed explanation of how the apparent absorbance is developed to provide the color absorbance and the scattering coefficients 
 
+[Data set in Zenobo](https://zenodo.org/uploads/17866606)
 
-<h2>Synthetic vs Real – Turbidity Training Evaluation (when the model reach 25K iterations)</h2>
+Results for Mask2Former (Swin-S) at 25K iterations, when the model has been trained in specific turbidity conditions. Verification has been made in the synthetic and real data set: 
+
+<h2>Synthetic vs Real – Turbidity Training Evaluation </h2>
 
 <table>
   <thead>
