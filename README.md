@@ -13,7 +13,7 @@ Kaolin link and sensors
 a more detailed explanation of how the apparent absorbance is developed to provide the color absorbance and the scattering coefficients 
 
 
-<h2>Synthetic vs Real – Turbidity Training Evaluation (25K iterations)</h2>
+<h2>Synthetic vs Real – Turbidity Training Evaluation (when the model reach 25K iterations)</h2>
 
 <table>
   <thead>
