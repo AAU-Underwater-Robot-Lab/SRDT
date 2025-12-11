@@ -14,7 +14,7 @@ a more detailed explanation of how the apparent absorbance is developed to provi
 
 [Data set in Zenobo](https://zenodo.org/uploads/17866606)
 
-Results for Mask2Former (Swin-S) at 25K iterations, when the model has been trained in specific turbidity conditions. Verification has been made in the synthetic and real data set: 
+Results for Mask2Former (Swin-S) at 25K iterations, when the model has been trained in specific turbidity conditions. Verification has been made in the validation subset of synthetic and in the real data set: 
 
 <h2>Synthetic vs Real – Turbidity Training Evaluation </h2>
 
