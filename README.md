@@ -22,7 +22,7 @@ Results for Mask2Former (Swin-S) at 25K iterations, when the model has been trai
   <thead>
     <tr>
       <th rowspan="2">Training turbidity</th>
-      <th colspan="3">Synthetic </th>
+      <th colspan="3">Synthetic (itself) </th>
       <th colspan="5">T1 (real)</th>
       <th colspan="5">T2 (real)</th>
       <th colspan="5">T3 (real)</th>
